@@ -1,0 +1,12 @@
+# compiled python files
+*.py[co]
+__pycache__/
+
+# IDE
+.idea/
+.vscode/
+.docs/
+
+# OS
+.DS_Store
+Thumbs.db
